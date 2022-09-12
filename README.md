@@ -8,8 +8,10 @@ Anggota 1      : Maura Yufi Septania Putri-20/463607/TK/51599
 Anggota 2      : Muhammad Rafa Fadlurahman-20/456848/TK/50672
 
 
-__Use Case Diagram__
-![image](https://user-images.githubusercontent.com/79232239/188541723-b93d80d0-f815-4b2d-bf8b-e95b7dacc501.png)
+![image](https://user-images.githubusercontent.com/79232239/189579937-9896a2a2-9958-47b5-8dc3-c4ca1d188bd6.png)
+![image](https://user-images.githubusercontent.com/79232239/189579985-cb521dd8-7b79-49f1-af7f-c221e479cd69.png)
+![image](https://user-images.githubusercontent.com/79232239/189580006-c911b3de-1078-4e4b-9b02-d0452ecdb9d6.png)
+
 
 
 
