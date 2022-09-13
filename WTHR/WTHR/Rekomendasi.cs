@@ -8,5 +8,7 @@ namespace WTHR
 {
     internal class Rekomendasi
     {
+        public string barang;
+        public string tindakan;
     }
 }

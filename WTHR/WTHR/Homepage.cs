@@ -8,5 +8,9 @@ namespace WTHR
 {
     internal class Homepage
     {
+        public string lokasi;
+        public string profile;
+        public string cuaca;
+        public string kualistasU;
     }
 }
