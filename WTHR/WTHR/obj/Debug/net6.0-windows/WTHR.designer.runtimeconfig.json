@@ -1,0 +1,22 @@
+{
+  "runtimeOptions": {
+    "tfm": "net6.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "6.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "6.0.0"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\Maura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maura\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
