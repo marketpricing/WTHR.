@@ -8,5 +8,7 @@ namespace WTHR
 {
     internal class KualitasUdara
     {
+        public int indeksKualitas;
+        public int kelembaban;
     }
 }
