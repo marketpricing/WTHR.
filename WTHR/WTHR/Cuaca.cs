@@ -8,5 +8,10 @@ namespace WTHR
 {
     internal class Cuaca
     {
+        public string cuaca;
+        public float suhu;
+        public string curahHujan;
+        public int kecAngin;
+    }
     }
 }
