@@ -12,6 +12,7 @@ Anggota 2      : Muhammad Rafa Fadlurahman-20/456848/TK/50672
 ![image](https://user-images.githubusercontent.com/79232239/189579985-cb521dd8-7b79-49f1-af7f-c221e479cd69.png)
 ![image](https://user-images.githubusercontent.com/79232239/189580006-c911b3de-1078-4e4b-9b02-d0452ecdb9d6.png)
 ![image](https://user-images.githubusercontent.com/79232239/189789430-e95dd41d-807e-4a73-8673-7e2d6c582fca.png)
+![image](https://user-images.githubusercontent.com/79232239/191155660-c1068d73-d794-4dba-bcbc-0a34e0c48983.png)
 
 
 
